@@ -3835,3 +3835,234 @@ SyntaxError: closing parenthesis ')' does not match opening parenthesis '[' on l
 [2025-04-17T17:57:22.178+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:57:22.177+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-17T17:57:22.191+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:57:22.191+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
 [2025-04-17T17:57:22.214+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.259 seconds
+[2025-04-17T17:57:52.539+0000] {processor.py:186} INFO - Started process (PID=8373) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:57:52.540+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T17:57:52.542+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:57:52.542+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:57:52.734+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:57:52.752+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:57:52.751+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T17:57:52.766+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:57:52.766+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T17:57:52.800+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.266 seconds
+[2025-04-17T17:58:22.888+0000] {processor.py:186} INFO - Started process (PID=8437) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:58:22.889+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T17:58:22.891+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:58:22.891+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:58:23.096+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:58:23.114+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:58:23.113+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T17:58:23.126+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:58:23.126+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T17:58:23.145+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.263 seconds
+[2025-04-17T17:58:53.300+0000] {processor.py:186} INFO - Started process (PID=8500) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:58:53.301+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T17:58:53.304+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:58:53.303+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:58:53.471+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:58:53.488+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:58:53.487+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T17:58:53.501+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:58:53.501+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T17:58:53.528+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.233 seconds
+[2025-04-17T17:59:23.578+0000] {processor.py:186} INFO - Started process (PID=8557) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:59:23.579+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T17:59:23.581+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:59:23.581+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:59:23.768+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:59:23.787+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:59:23.786+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T17:59:23.802+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:59:23.802+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T17:59:23.823+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.250 seconds
+[2025-04-17T17:59:53.947+0000] {processor.py:186} INFO - Started process (PID=8621) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:59:53.948+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T17:59:53.950+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:59:53.950+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:59:54.111+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T17:59:54.125+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:59:54.125+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T17:59:54.135+0000] {logging_mixin.py:190} INFO - [2025-04-17T17:59:54.135+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T17:59:54.288+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.346 seconds
+[2025-04-17T18:00:24.993+0000] {processor.py:186} INFO - Started process (PID=8685) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:00:24.994+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:00:24.997+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:00:24.996+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:00:25.204+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:00:25.221+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:00:25.221+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:00:25.237+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:00:25.237+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:00:25.260+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.272 seconds
+[2025-04-17T18:00:55.376+0000] {processor.py:186} INFO - Started process (PID=8749) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:00:55.377+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:00:55.380+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:00:55.380+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:00:55.612+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:00:55.635+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:00:55.635+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:00:55.654+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:00:55.654+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:00:55.680+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.310 seconds
+[2025-04-17T18:01:25.886+0000] {processor.py:186} INFO - Started process (PID=8814) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:01:25.887+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:01:25.889+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:01:25.889+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:01:26.131+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:01:26.154+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:01:26.153+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:01:26.172+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:01:26.171+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:01:26.194+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.314 seconds
+[2025-04-17T18:01:56.338+0000] {processor.py:186} INFO - Started process (PID=8878) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:01:56.339+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:01:56.342+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:01:56.342+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:01:56.541+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:01:56.695+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:01:56.694+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:01:56.707+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:01:56.706+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:01:56.724+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.396 seconds
+[2025-04-17T18:02:26.929+0000] {processor.py:186} INFO - Started process (PID=8942) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:02:26.931+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:02:26.935+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:02:26.935+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:02:27.167+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:02:27.185+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:02:27.185+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:02:27.359+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:02:27.359+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:02:27.380+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.462 seconds
+[2025-04-17T18:02:57.555+0000] {processor.py:186} INFO - Started process (PID=9008) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:02:57.556+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:02:57.559+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:02:57.558+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:02:57.765+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:02:57.783+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:02:57.782+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:02:57.795+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:02:57.795+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:02:57.931+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.383 seconds
+[2025-04-17T18:03:28.024+0000] {processor.py:186} INFO - Started process (PID=9072) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:03:28.025+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:03:28.027+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:03:28.027+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:03:28.238+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:03:28.258+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:03:28.257+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:03:28.271+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:03:28.271+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:03:28.291+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.272 seconds
+[2025-04-17T18:03:58.355+0000] {processor.py:186} INFO - Started process (PID=9134) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:03:58.356+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:03:58.358+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:03:58.358+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:03:58.748+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:03:58.766+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:03:58.766+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:03:58.780+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:03:58.780+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:03:58.804+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.454 seconds
+[2025-04-17T18:04:29.652+0000] {processor.py:186} INFO - Started process (PID=9200) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:04:29.653+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:04:29.656+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:04:29.656+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:04:30.037+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:04:30.057+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:04:30.056+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:04:30.079+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:04:30.078+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:04:30.112+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.464 seconds
+[2025-04-17T18:05:00.220+0000] {processor.py:186} INFO - Started process (PID=9264) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:05:00.221+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:05:00.226+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:05:00.225+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:05:00.443+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:05:00.624+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:05:00.624+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:05:00.635+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:05:00.635+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:05:00.651+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.437 seconds
+[2025-04-17T18:05:30.776+0000] {processor.py:186} INFO - Started process (PID=9328) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:05:30.777+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:05:30.779+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:05:30.778+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:05:31.213+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:05:31.244+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:05:31.244+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:05:31.259+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:05:31.259+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:05:31.279+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.509 seconds
+[2025-04-17T18:06:01.515+0000] {processor.py:186} INFO - Started process (PID=9392) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:06:01.516+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:06:01.519+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:06:01.518+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:06:01.915+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:06:01.932+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:06:01.931+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:06:01.948+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:06:01.948+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:06:01.967+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.442 seconds
+[2025-04-17T18:06:32.130+0000] {processor.py:186} INFO - Started process (PID=9458) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:06:32.131+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:06:32.134+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:06:32.134+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:06:32.540+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:06:32.560+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:06:32.560+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:06:32.570+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:06:32.570+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:06:32.585+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.460 seconds
+[2025-04-17T18:07:02.759+0000] {processor.py:186} INFO - Started process (PID=9527) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:07:02.760+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:07:02.762+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:07:02.762+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:07:03.100+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:07:03.117+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:07:03.117+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:07:03.131+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:07:03.131+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:07:03.150+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.396 seconds
+[2025-04-17T18:07:33.578+0000] {processor.py:186} INFO - Started process (PID=9591) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:07:33.580+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:07:33.583+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:07:33.583+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:07:33.923+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:07:33.937+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:07:33.936+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:07:33.948+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:07:33.948+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:07:33.968+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.395 seconds
+[2025-04-17T18:08:04.515+0000] {processor.py:186} INFO - Started process (PID=9655) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:08:04.517+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:08:04.522+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:08:04.521+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:08:05.063+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:08:05.090+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:08:05.089+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:08:05.108+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:08:05.107+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:08:05.134+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.630 seconds
+[2025-04-17T18:08:35.219+0000] {processor.py:186} INFO - Started process (PID=9718) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:08:35.221+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:08:35.224+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:08:35.224+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:08:35.558+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:08:35.577+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:08:35.577+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:08:35.589+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:08:35.589+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:08:35.611+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.397 seconds
+[2025-04-17T18:09:05.664+0000] {processor.py:186} INFO - Started process (PID=9782) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:09:05.665+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:09:05.667+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:09:05.667+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:09:05.982+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:09:05.995+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:09:05.995+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:09:06.006+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:09:06.006+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:09:06.025+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.366 seconds
+[2025-04-17T18:09:36.422+0000] {processor.py:186} INFO - Started process (PID=9847) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:09:36.423+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:09:36.425+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:09:36.425+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:09:36.730+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:09:36.741+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:09:36.741+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:09:36.751+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:09:36.751+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:09:36.766+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.349 seconds
+[2025-04-17T18:10:06.999+0000] {processor.py:186} INFO - Started process (PID=9911) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:10:07.000+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:10:07.004+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:10:07.004+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:10:07.374+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:10:07.388+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:10:07.388+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:10:07.399+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:10:07.398+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:10:07.419+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.425 seconds
+[2025-04-17T18:10:37.851+0000] {processor.py:186} INFO - Started process (PID=9975) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:10:37.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:10:37.856+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:10:37.855+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:10:38.191+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:10:38.206+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:10:38.205+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:10:38.218+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:10:38.217+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:10:38.245+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.400 seconds
+[2025-04-17T18:11:08.828+0000] {processor.py:186} INFO - Started process (PID=10039) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:11:08.829+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:11:08.832+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:11:08.832+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:11:09.165+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:11:09.177+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:11:09.177+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:11:09.187+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:11:09.187+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:11:09.206+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.382 seconds
+[2025-04-17T18:11:39.363+0000] {processor.py:186} INFO - Started process (PID=10103) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:11:39.364+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:11:39.366+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:11:39.366+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:11:39.728+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:11:39.743+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:11:39.743+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:11:39.754+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:11:39.753+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:11:39.771+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.413 seconds
+[2025-04-17T18:12:10.610+0000] {processor.py:186} INFO - Started process (PID=10167) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:12:10.611+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:12:10.614+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:12:10.613+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:12:10.943+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:12:10.959+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:12:10.959+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:12:10.970+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:12:10.970+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:12:10.989+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.385 seconds
+[2025-04-17T18:12:41.309+0000] {processor.py:186} INFO - Started process (PID=10232) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:12:41.311+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:12:41.315+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:12:41.315+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:12:41.720+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:12:41.737+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:12:41.736+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:12:41.750+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:12:41.749+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:12:41.775+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.473 seconds
+[2025-04-17T18:13:11.951+0000] {processor.py:186} INFO - Started process (PID=10296) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:13:11.953+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:13:11.955+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:13:11.954+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:13:12.271+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:13:12.287+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:13:12.287+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:13:12.299+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:13:12.299+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:13:12.318+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.372 seconds
+[2025-04-17T18:13:43.329+0000] {processor.py:186} INFO - Started process (PID=10360) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:13:43.330+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:13:43.333+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:13:43.332+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:13:43.706+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:13:43.726+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:13:43.726+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:13:43.738+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:13:43.737+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:13:43.758+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.434 seconds
+[2025-04-17T18:14:14.022+0000] {processor.py:186} INFO - Started process (PID=10424) to work on /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:14:14.026+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/csv_to_fhir_dag.py for tasks to queue
+[2025-04-17T18:14:14.030+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:14:14.030+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:14:14.466+0000] {processor.py:925} INFO - DAG(s) 'csv_to_fhir_pipeline' retrieved from /opt/airflow/dags/csv_to_fhir_dag.py
+[2025-04-17T18:14:14.490+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:14:14.489+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-17T18:14:14.503+0000] {logging_mixin.py:190} INFO - [2025-04-17T18:14:14.503+0000] {dag.py:4180} INFO - Setting next_dagrun for csv_to_fhir_pipeline to None, run_after=None
+[2025-04-17T18:14:14.529+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/csv_to_fhir_dag.py took 0.519 seconds
