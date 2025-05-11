@@ -13,6 +13,14 @@ This project demonstrates a complete healthcare data transformation pipeline usi
 
 ---
 
+## 🧾 Description
+
+This project demonstrates how to build a healthcare data pipeline that standardizes flat CSV files into structured FHIR (Fast Healthcare Interoperability Resources) format. The transformed JSON is then uploaded to a HAPI FHIR server. This mimics a common task in clinical informatics — converting legacy data into modern, interoperable formats.
+
+It is especially useful for developers and health informatics professionals working with HL7 FHIR, EHR integration, or prototyping clinical data ingestion workflows.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Python 3**
