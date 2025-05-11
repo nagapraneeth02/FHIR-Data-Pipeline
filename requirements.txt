@@ -1,3 +1,4 @@
-apache-airflow==2.10.5
-pandas==2.0.3
+pandas
+fhir.resources
+requests
 fhir.resources==7.1.0
